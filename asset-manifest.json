@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iba-ui-react-typescript/static/css/main.073c9b0a.css",
+    "main.js": "/iba-ui-react-typescript/static/js/main.e8723bc3.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/iba-ui-react-typescript/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/iba-ui-react-typescript/index.html",
+    "main.073c9b0a.css.map": "/iba-ui-react-typescript/static/css/main.073c9b0a.css.map",
+    "main.e8723bc3.js.map": "/iba-ui-react-typescript/static/js/main.e8723bc3.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/iba-ui-react-typescript/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e8723bc3.js"
+  ]
+}
